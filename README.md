@@ -9,7 +9,6 @@ This project is for understand the How to make AJAX call in React application.
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
 - [Supported Browsers](#supported-browsers)
-- [Installing a Dependency](#installing-a-dependency)
 
 ## AJAX Call
    You can make all AJAX call(GET, POST, DELETE etc.) from single one method.
