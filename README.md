@@ -13,7 +13,7 @@ This project is for understand the How to make AJAX call in React application.
 
 ## AJAX Call
    You can make all AJAX call(GET, POST, DELETE etc.) from single one method.
-   getDataFromServer(<<URL>>, <<Method-Type>>, <<parameters>>, <<SuccessCallBack>>, <<ErrorCallBack>>)
+   getDataFromServer(URL, Method-Type, parameters, SuccessCallBack, ErrorCallBack)
 
 ## Folder Structure
 
